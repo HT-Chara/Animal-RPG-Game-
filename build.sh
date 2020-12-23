@@ -1,0 +1,3 @@
+#!/bin/bash
+rm AnimalRPGGame.love
+zip -9 -r AnimalRPGGame.love game/*
